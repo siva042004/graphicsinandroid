@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by: Akash A
-Registeration Number : 212221040010
+Developed by: sivaragul.m
+Registeration Number : 212221040155
 */
 ```
 
